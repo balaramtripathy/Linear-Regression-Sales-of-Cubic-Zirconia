@@ -1,4 +1,4 @@
-# Sales-of-Cubic-Zirconia-Artificial-Diamond-.-
+# Linear Regression, Sales of Cubic Zirconia-Artificial-Diamond
 
 It's a Regression Analysis- Sales of Cubic Zirconia (Artificial Diamond). 
 
